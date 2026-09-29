@@ -1,0 +1,11 @@
+{
+  "active_version": "v1",
+  "versions": {
+    "v1": {
+      "file": "v1_advisory_model.pkl",
+      "encoders": "v1_label_encoders.pkl",
+      "accuracy": 0.91,
+      "date": "2024-06-01"
+    }
+  }
+}
